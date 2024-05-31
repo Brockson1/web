@@ -1,0 +1,76 @@
+/* Optimal CSS for iPhone Users */
+
+/* Global Styles */
+body {
+  font-size: 16px; /* Set base font size */
+}
+
+/* Header */
+.u-header {
+  padding: 20px 0; /* Adjust padding for better appearance on smaller screens */
+}
+
+.u-logo-image-1 {
+  width: 150px; /* Adjust logo width for better fit on smaller screens */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.u-menu-1 {
+  margin-top: 10px; /* Adjust menu margin for better spacing on smaller screens */
+}
+
+/* Section 1 */
+.u-section-1 .u-text-1 {
+  font-size: 1.8rem; /* Reduced font size for better readability on smaller screens */
+  width: 90%; /* Adjusted width for better responsiveness */
+  margin-bottom: 20px; /* Adjust margin for better spacing on smaller screens */
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.2rem; /* Reduced font size for better readability on smaller screens */
+  width: 90%; /* Adjusted width for better responsiveness */
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 10px 20px; /* Smaller padding for better button appearance on smaller screens */
+}
+
+/* Section 2 */
+.u-section-2 .u-text-1 {
+  font-size: 1.8rem; /* Reduced font size for better readability on smaller screens */
+  width: 90%; /* Adjusted width for better responsiveness */
+  margin: 20px auto; /* Adjusted margin for better positioning */
+}
+
+/* Section 3 */
+.u-section-3 .u-text-1 {
+  font-size: 1.8rem; /* Reduced font size for better readability on smaller screens */
+  width: 90%; /* Adjusted width for better responsiveness */
+}
+
+.u-section-3 .u-text-2 {
+  margin-top: 20px; /* Adjusted margin for better spacing on smaller screens */
+}
+
+/* Contact Section */
+.contact-section {
+  padding: 40px 0; /* Reduced padding for better appearance on smaller screens */
+}
+
+.contact-section h2 {
+  font-size: 1.8rem; /* Reduced font size for better readability on smaller screens */
+}
+
+.contact-section p {
+  font-size: 1.2rem; /* Reduced font size for better readability on smaller screens */
+  margin-bottom: 20px; /* Adjusted margin for better spacing on smaller screens */
+}
+
+.contact-section .form-control {
+  font-size: 1rem; /* Reduced font size for better appearance on smaller screens */
+}
+
+.contact-section .btn {
+  font-size: 1.125rem; /* Reduced font size for better appearance on smaller screens */
+  padding: 10px 15px; /* Smaller padding for better button appearance on smaller screens */
+}

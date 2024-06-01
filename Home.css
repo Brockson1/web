@@ -804,7 +804,7 @@ h2 {
 }
 
 
-header { 
+.header { 
   height: 150px;
 }
 
@@ -852,7 +852,7 @@ header {
   top: 365px;
   left: -60px;
   }
-  }
+  
 
   .u-section-1 .u-btn-1 {
   font-size: 0.8rem; /* Further reduce font size for iPhone screen */
@@ -894,3 +894,4 @@ header {
 }
 
 
+}
